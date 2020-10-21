@@ -1,0 +1,12 @@
+name: DevelopingDataProductCourseProject
+title: DevelopingDataProductCourseProject
+username:
+account: pmeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3068921
+bundleId: 3768127
+url: https://pmeng.shinyapps.io/DevelopingDataProductCourseProject/
+when: 1603316323.11639
+asMultiple: FALSE
+asStatic: FALSE
